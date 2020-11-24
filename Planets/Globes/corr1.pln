@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<EffectPluginConfigToken xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <token_hideOcean>false</token_hideOcean>
+  <token_hideShallow>false</token_hideShallow>
+  <token_hideLand>false</token_hideLand>
+  <token_hideForest>false</token_hideForest>
+  <token_hideMountain>false</token_hideMountain>
+  <token_hideLowCloud>true</token_hideLowCloud>
+  <token_hideHighCloud>true</token_hideHighCloud>
+  <token_OceanColor />
+  <token_LandColor />
+  <token_ForestColor />
+  <token_MountainColor />
+  <token_LowCloudColor />
+  <token_HighCloudColor />
+  <token_shallowSize>50</token_shallowSize>
+  <token_shallowFrequency>50</token_shallowFrequency>
+  <token_shallowSharpness>50</token_shallowSharpness>
+  <token_shallowOpacity>64</token_shallowOpacity>
+  <token_landSize>50</token_landSize>
+  <token_landFrequency>50</token_landFrequency>
+  <token_forestSize>55</token_forestSize>
+  <token_forestFrequency>34</token_forestFrequency>
+  <token_mountainSize>66</token_mountainSize>
+  <token_mountainFrequency>37</token_mountainFrequency>
+  <token_lowcloudCoverage>50</token_lowcloudCoverage>
+  <token_lowcloudFrequency>50</token_lowcloudFrequency>
+  <token_lowcloudDensity>50</token_lowcloudDensity>
+  <token_lowcloudPersistence>50</token_lowcloudPersistence>
+  <token_highcloudCoverage>50</token_highcloudCoverage>
+  <token_highcloudFrequency>50</token_highcloudFrequency>
+  <token_highcloudDensity>50</token_highcloudDensity>
+  <token_highcloudPersistence>50</token_highcloudPersistence>
+  <token_render3D>true</token_render3D>
+  <token_LensFocalLength>34</token_LensFocalLength>
+  <token_LightFocus>0</token_LightFocus>
+  <token_LightRotation>0</token_LightRotation>
+  <token_LightTilt>0</token_LightTilt>
+  <token_LightIntensity>82</token_LightIntensity>
+  <token_AALevel>1</token_AALevel>
+  <XMLtoken_OceanColor>#FF4110FF</XMLtoken_OceanColor>
+  <XMLtoken_LandColor>#FF2B9C3D</XMLtoken_LandColor>
+  <XMLtoken_ForestColor>#FF20FF6A</XMLtoken_ForestColor>
+  <XMLtoken_MountainColor>#FFF400FF</XMLtoken_MountainColor>
+  <XMLtoken_LowCloudColor>#FF848484</XMLtoken_LowCloudColor>
+  <XMLtoken_HighCloudColor>#FFEFEFEF</XMLtoken_HighCloudColor>
+</EffectPluginConfigToken>

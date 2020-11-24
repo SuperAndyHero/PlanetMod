@@ -1,0 +1,4 @@
+displayName = Planet Mod Temp Title
+author = SuperAndyHero
+modReferences = SubworldLibrary,  StructureHelper
+version = 0.1
