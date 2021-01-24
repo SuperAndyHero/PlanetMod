@@ -299,7 +299,7 @@ namespace PlanetMod
 				}
 			}
 
-			SelectedPlanet = (ushort)PlanetID.RockyPlanet;//debug
+			SelectedPlanet = (ushort)PlanetID.Moon;//debug
 		}
 
 		private static void UpdateTime_SpawnTownNPCs()//entire town npc check (why am I even doing this on planets...)
